@@ -25,3 +25,5 @@
   He/Him
 - ⚡ Fun fact:
   I enjoy transforming ideas into working software and love learning new technologies that make development more efficient and scalable.
+
+  
