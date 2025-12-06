@@ -12,3 +12,7 @@
   Open-source contributions related to software engineering or developer tools.
 - 🤔 I’m looking for help with:
   Advanced software architecture patterns and optimizing full-stack applications.
+
+- 💬 Ask me about:
+  Java, C#, ASP.NET , React.js, Entity Framework, MSSQL, and building full-stack apps.
+  Git, GitHub workflows, and project structuring.
