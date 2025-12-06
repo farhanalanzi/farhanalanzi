@@ -18,8 +18,10 @@
   Git, GitHub workflows, and project structuring.
 - 📫 How to reach me:
   Email: **farhanalanzia@gmail.com**
-  LinkedIn: **www.linkedin.com/in/farhan-alanazi/**
+  LinkedIn: **https://www.linkedin.com/in/farhan-alanazia/**
   Portfolio: **www.farhanalanazi.online**
   GitHub: **https://github.com/farhanalanzi**
 - 😄 Pronouns:
   He/Him
+- ⚡ Fun fact:
+  I enjoy transforming ideas into working software and love learning new technologies that make development more efficient and scalable.
