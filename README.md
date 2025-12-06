@@ -21,3 +21,5 @@
   LinkedIn: **www.linkedin.com/in/farhan-alanazi/**
   Portfolio: **www.farhanalanazi.online**
   GitHub: **https://github.com/farhanalanzi**
+- 😄 Pronouns:
+  He/Him
