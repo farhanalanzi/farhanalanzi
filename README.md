@@ -16,3 +16,8 @@
 - 💬 Ask me about:
   Java, C#, ASP.NET , React.js, Entity Framework, MSSQL, and building full-stack apps.
   Git, GitHub workflows, and project structuring.
+- 📫 How to reach me:
+  Email: **farhanalanzia@gmail.com**
+  LinkedIn: **www.linkedin.com/in/farhan-alanazi/**
+  Portfolio: **www.farhanalanazi.online**
+  GitHub: **https://github.com/farhanalanzi**
